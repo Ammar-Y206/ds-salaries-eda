@@ -28,7 +28,6 @@ This project explores the [Data Science Job Salaries dataset](https://www.kaggle
 ├── notebooks/          # EDA notebook (cleaning, stats, correlation, grouped analysis)
 ├── dashboard/          # Interactive Power BI dashboard
 ├── presentation/       # Final slide deck
-└── docs/               # Project overview and supporting documents
 ```
 
 ## 📊 Dataset Snapshot
